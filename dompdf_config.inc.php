@@ -307,7 +307,7 @@ def("DOMPDF_ENABLE_CSS_FLOAT", false);
  *
  * @var bool
  */
-def("DOMPDF_ENABLE_AUTOLOAD", true);
+def("DOMPDF_ENABLE_AUTOLOAD", false);
 
 /**
  * Prepend the DOMPDF autoload function to the spl_autoload stack

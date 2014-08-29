@@ -8,6 +8,11 @@
  * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
  */
 
+$autoload = '../../autoload.php';
+if(!file_exists(autoload)){
+  $autoload = 'vendor/autoload.php';
+}
+require_once $autoload;
 require_once "dompdf_config.inc.php";
 
 /**
