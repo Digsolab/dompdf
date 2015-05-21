@@ -4,6 +4,7 @@
     "description": "DOMPDF is a CSS 2.1 compliant HTML to PDF converter",
     "homepage": "https://github.com/digsolab/dompdf",
     "license": "LGPL",
+    "version": "v0.6.2",
     "authors": [
         {
             "name": "Fabien Ménager",
